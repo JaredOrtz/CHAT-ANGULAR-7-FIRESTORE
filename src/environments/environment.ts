@@ -5,14 +5,16 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyDUa8dWHEPJ84Qaz0UlWwNob5Fz0COY5EA",
-    authDomain: "firechat-5f0cd.firebaseapp.com",
-    databaseURL: "https://firechat-5f0cd.firebaseio.com",
-    projectId: "firechat-5f0cd",
-    storageBucket: "firechat-5f0cd.appspot.com",
-    messagingSenderId: "393522308987"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
   }
 };
+
+// DEBES COLOCAR TUS PROPIAS CONFIGURACIONES DE TU PROYECTO 
 
 /*
  * For easier debugging in development mode, you can import the following file
